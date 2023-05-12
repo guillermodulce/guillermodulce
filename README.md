@@ -6,11 +6,11 @@ Soy un desarrollador de software apasionado por la tecnología. Mi objetivo es c
 
 ## 🔭 Actualmente estoy trabajando en
 
-- [Menciona tus proyectos actuales aquí]
+- Retail de electrónica de consumo, gaming, informática
 
 ## 🌱 Estoy aprendiendo
 
-- [Menciona las habilidades o tecnologías que estás aprendiendo actualmente]
+- Data Science
 
 ## 💻 Tecnologías y herramientas
 
