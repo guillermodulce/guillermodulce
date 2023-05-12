@@ -1,6 +1,6 @@
 # Hola 👋, soy Guillermo!
 
-![header](https://raw.githubusercontent.com/[tu_nombre]/[tu_nombre]/main/github-header.png)
+![header](https://raw.githubusercontent.com/guillermodulce/guillermodulce/main/github-header.png)
 
 Soy un desarrollador de software apasionado por la tecnología. Mi objetivo es crear soluciones innovadoras y fáciles de usar que mejoren la vida de las personas.
 
