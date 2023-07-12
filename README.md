@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&pause=1000&color=24E4F7&width=435&lines=Hello+World!+I'm+Guillermo;Data Scientist+in+progress..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&pause=1000&color=24E4F7&width=435&lines=Hello+World!+I'm+Guillermo;Data+Scientist+in+progress..." alt="Typing SVG" />
 </h1>
 
 <div id="footer" align="center">
